@@ -3,7 +3,7 @@
  * feedback. Counts the number of times blue is the dominant color
  * and transmits count to an MQTT broker. If count falls below
  * a threshold value in a specified given amount of time, an alert
- * message is transmited. Includes battery backup power supply.
+ * message is transmitted. Includes battery backup power supply.
 */
 
 #include <WiFiClientSecure.h>
