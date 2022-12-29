@@ -82,7 +82,7 @@ The **LED** pinout is ActiveLow so we will only create a connection to future pr
 
 ![Alt](https://github.com/d-00001101/RGB-Light-Sensor-Counter/blob/main/assets/imgs/Connections.png)
 
-The diagram shows a buzzer and LED connected to the HUZZAH32. The connections are implemented in the custom PCB but we will not use them in this project. They are merely there to future proof this project should there ever be a need to create an audible or visual signal that an item has been counted.
+The diagram shows a buzzer and LED connected to the HUZZAH32. The connections are implemented in the custom PCB but we will not go over that in this README file. The code, however, has implemented that functionality.
 
 ![Alt](https://github.com/d-00001101/RGB-Light-Sensor-Counter/blob/main/assets/imgs/breakout.jpg)
 
